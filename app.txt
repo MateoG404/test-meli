@@ -1,0 +1,5 @@
+Instrucciones para el programa
+
+1. abrirlo
+2. ejecutarlo
+3. salir
